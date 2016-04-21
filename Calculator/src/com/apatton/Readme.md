@@ -1,1 +1,0 @@
-A calculator utility developed in Java.
